@@ -2,7 +2,7 @@
  
 - ## 👀 I’m interested in reverse engineering
 
-- ## 🌱 I'm currently learning the basics of Windows and c/c++
+- ## 🌱 I'm currently learning the basics of Windows and C/C++
 
 - ## 🐱‍💻 std::cout << "Hello World!" << std::endl;
 
